@@ -3983,6 +3983,8 @@
             "resource": "skin3_adaptive.png"
         },
         {
+            "adaptive": true,
+            "bounce": false,
             "author": "Xafron",
             "backresource": "",
             "backflipresource": "",
@@ -4104,6 +4106,7 @@
         }
     ]
 }
+
 
 
 
