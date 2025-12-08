@@ -3933,7 +3933,7 @@
             "resource": "Spartan.png"
         },
           {
-            "author": "Xafron",
+            "author": "BoesesYuu/Fluse",
             "backresource": "",
             "backflipresource": "",
             "flipresource": "",
@@ -3949,7 +3949,7 @@
             "resource": "skin1.png"
         },
         {
-            "author": "Xafron",
+            "author": "BoesesYuu/Amongus_Fluse",
             "backresource": "",
             "backflipresource": "",
             "flipresource": "",
@@ -3967,7 +3967,7 @@
         {
             "adaptive": true,
             "bounce": false,
-            "author": "Xafron",
+            "author": "BoesesYuu\nAmongus_Fluse",
             "backresource": "skin3_adaptive_back.png",
             "backflipresource": "",
             "flipresource": "",
@@ -4104,6 +4104,7 @@
         }
     ]
 }
+
 
 
 
