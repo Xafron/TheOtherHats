@@ -4017,7 +4017,7 @@
         {
             "adaptive": false,
             "bounce": false,
-            "author": "Xafron",
+            "author": "Xafron/BoesesYuu/Amongus_Fluse",
             "backresource": "",
             "backflipresource": "",
             "flipresource": "",
@@ -4035,7 +4035,7 @@
         {
             "adaptive": true,
             "bounce": false,
-            "author": "Xafron",
+            "author": "BoesesYuu/Amongus_Fluse",
             "backresource": "skin7_adaptive_back.png",
             "backflipresource": "",
             "flipresource": "",
@@ -4053,7 +4053,7 @@
         {
             "adaptive": true,
             "bounce": false,
-            "author": "Xafron",
+            "author": "Xafron/BoesesYuu",
             "backresource": "",
             "backflipresource": "",
             "flipresource": "",
@@ -4069,7 +4069,7 @@
             "resource": "skin8_adaptive.png"
         },
         {
-            "author": "Xafron",
+            "author": "Xafron/Amongus_Fluse",
             "backresource": "skin9_back.png",
             "backflipresource": "",
             "flipresource": "",
@@ -4104,6 +4104,7 @@
         }
     ]
 }
+
 
 
 
