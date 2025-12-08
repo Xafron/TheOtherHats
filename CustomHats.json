@@ -3941,6 +3941,11 @@
             "condition": "None",
             "name": "Skin 1",
             "package": "Community Hats",
+            "reshasha": "dcc48b467acee389e0fddd2691eceb86",
+            "reshashf": "",
+            "reshashb": "",
+            "reshashbf": "",
+            "reshashc": "",
             "resource": "skin1.png"
         },
         {
@@ -3952,6 +3957,11 @@
             "condition": "None",
             "name": "Skin 2",
             "package": "Community Hats",
+            "reshasha": "f30c180d3d5357d236101b1b1caf0194",
+            "reshashf": "",
+            "reshashb": "",
+            "reshashbf": "",
+            "reshashc": "",
             "resource": "skin2.png"
         },
         {
@@ -3965,6 +3975,11 @@
             "condition": "None",
             "name": "Skin 3",
             "package": "Community Hats",
+            "reshasha": "6e4d82033b32f4a0ccde7b630f3544cf",
+            "reshashf": "",
+            "reshashb": "ffd001c4fbbb62f182e5f4cf82e226cd",
+            "reshashbf": "",
+            "reshashc": "",
             "resource": "skin3_adaptive.png"
         },
         {
@@ -3976,6 +3991,11 @@
             "condition": "None",
             "name": "Skin 4",
             "package": "Community Hats",
+            "reshasha": "a402c3ebf3160701502e6102acae709d",
+            "reshashf": "",
+            "reshashb": "",
+            "reshashbf": "",
+            "reshashc": "",
             "resource": "skin4.png"
         },
         {
@@ -3987,6 +4007,11 @@
             "condition": "None",
             "name": "Skin 5",
             "package": "Community Hats",
+            "reshasha": "3449ac7abebd5b61e50e4daab86fde5e",
+            "reshashf": "",
+            "reshashb": "",
+            "reshashbf": "",
+            "reshashc": "",
             "resource": "skin5.png"
         },
         {
@@ -4000,6 +4025,11 @@
             "condition": "None",
             "name": "Skin 6",
             "package": "Community Hats",
+            "reshasha": "364a77838f3f79011f3f991ae2efb6a1",
+            "reshashf": "",
+            "reshashb": "",
+            "reshashbf": "",
+            "reshashc": "",
             "resource": "skin6.png"
         },
         {
@@ -4013,6 +4043,11 @@
             "condition": "None",
             "name": "Skin 7",
             "package": "Community Hats",
+            "reshasha": "64565452b4af7435bcefbbaa36d4e4f6",
+            "reshashf": "",
+            "reshashb": "fce8859fcbc7038d1c619c318b7fb0e6",
+            "reshashbf": "",
+            "reshashc": "",
             "resource": "skin7_adaptive.png"
         },
         {
@@ -4026,6 +4061,11 @@
             "condition": "None",
             "name": "Skin 8",
             "package": "Community Hats",
+            "reshasha": "77932347c2e7d81611cad7071df675e1",
+            "reshashf": "",
+            "reshashb": "",
+            "reshashbf": "",
+            "reshashc": "",
             "resource": "skin8_adaptive.png"
         },
         {
@@ -4037,6 +4077,11 @@
             "condition": "None",
             "name": "Skin9",
             "package": "Community Hats",
+            "reshasha": "39d1ab3baaec500cf79cf59e07ee1b05",
+            "reshashf": "",
+            "reshashb": "d92fb9656e20bab43b36c5ff9bb0a865",
+            "reshashbf": "",
+            "reshashc": "",
             "resource": "skin9.png"
         },
         {
@@ -4050,9 +4095,15 @@
             "condition": "None",
             "name": "Skin 10",
             "package": "Community Hats",
+            "reshasha": "45a876536ec5545574c2d921f8d5f2b6",
+            "reshashf": "",
+            "reshashb": "",
+            "reshashbf": "",
+            "reshashc": "",
             "resource": "skin10.png"
         }
     ]
 }
+
 
 
