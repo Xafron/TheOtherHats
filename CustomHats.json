@@ -3934,6 +3934,102 @@
         },
           {
             "author": "Xafron",
+            "backresource": "",
+            "backflipresource": "",
+            "flipresource": "",
+            "climbresource": "",
+            "condition": "None",
+            "name": "Skin 1",
+            "package": "Community Hats",
+            "resource": "skin1.png"
+        },
+        {
+            "author": "Xafron",
+            "backresource": "",
+            "backflipresource": "",
+            "flipresource": "",
+            "climbresource": "",
+            "condition": "None",
+            "name": "Skin 2",
+            "package": "Community Hats",
+            "resource": "skin2.png"
+        },
+        {
+            "adaptive": true,
+            "bounce": false,
+            "author": "Xafron",
+            "backresource": "skin3_adaptive_back.png",
+            "backflipresource": "",
+            "flipresource": "",
+            "climbresource": "",
+            "condition": "None",
+            "name": "Skin 3",
+            "package": "Community Hats",
+            "resource": "skin3_adaptive.png"
+        },
+        {
+            "author": "Xafron",
+            "backresource": "",
+            "backflipresource": "",
+            "flipresource": "",
+            "climbresource": "",
+            "condition": "None",
+            "name": "Skin 4",
+            "package": "Community Hats",
+            "resource": "skin4.png"
+        },
+        {
+            "author": "Xafron",
+            "backresource": "",
+            "backflipresource": "",
+            "flipresource": "",
+            "climbresource": "",
+            "condition": "None",
+            "name": "Skin 5",
+            "package": "Community Hats",
+            "resource": "skin5.png"
+        },
+        {
+            "adaptive": false,
+            "bounce": false,
+            "author": "Xafron",
+            "backresource": "",
+            "backflipresource": "",
+            "flipresource": "",
+            "climbresource": "",
+            "condition": "None",
+            "name": "Skin 6",
+            "package": "Community Hats",
+            "resource": "skin6.png"
+        },
+        {
+            "adaptive": true,
+            "bounce": false,
+            "author": "Xafron",
+            "backresource": "skin7_adaptive_back.png",
+            "backflipresource": "",
+            "flipresource": "",
+            "climbresource": "",
+            "condition": "None",
+            "name": "Skin 7",
+            "package": "Community Hats",
+            "resource": "skin7_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "bounce": false,
+            "author": "Xafron",
+            "backresource": "",
+            "backflipresource": "",
+            "flipresource": "",
+            "climbresource": "",
+            "condition": "None",
+            "name": "Skin 8",
+            "package": "Community Hats",
+            "resource": "skin8_adaptive.png"
+        },
+        {
+            "author": "Xafron",
             "backresource": "skin9_back.png",
             "backflipresource": "",
             "flipresource": "",
@@ -3941,14 +4037,22 @@
             "condition": "None",
             "name": "Skin9",
             "package": "Community Hats",
-            "reshasha": "",
-            "reshashf": "",
-            "reshashb": "",
-            "reshashbf": "",
-            "reshashc": "",
             "resource": "skin9.png"
         },
-        
+        {
+            "adaptive": false,
+            "bounce": false,
+            "author": "Xafron",
+            "backresource": "",
+            "backflipresource": "",
+            "flipresource": "",
+            "climbresource": "",
+            "condition": "None",
+            "name": "Skin 10",
+            "package": "Community Hats",
+            "resource": "skin10.png"
+        }
     ]
 }
+
 
