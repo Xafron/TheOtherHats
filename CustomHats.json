@@ -1,3 +1,5 @@
+{
+    "hats": [
 		{
             "adaptive": false,
 			"bounce": false,
@@ -916,3 +918,5 @@
             "reshashc": "71773ecceb6aa771f81e57888c0c5b48",
             "resource": "xafron.png"
         }
+    ]
+}
